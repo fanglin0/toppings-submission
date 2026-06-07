@@ -1,4 +1,4 @@
-# Toppings Submission
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 4 00 10 PM" src="https://github.com/user-attachments/assets/82a7d18b-ff6a-4bdd-a5fa-5436db5cbf2b" /># Toppings Submission
 
 ##  What this project is
 Toppings submission with all CSS requirements filled. 
@@ -15,3 +15,5 @@ VSCode, W3 Documentation
 ## Challenges I faced
 
 getting the animation to work.
+Getting hacktime to track my hours. If importing didn't work and you can't check my hours, here's my wakatime attatched, or message me on slack.
+<img width="1470" height="956" alt="Screenshot 2026-06-07 at 4 00 19 PM" src="https://github.com/user-attachments/assets/bf5dc3be-97b4-433e-906f-bf45a1a89013" />
