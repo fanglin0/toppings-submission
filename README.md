@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2026-06-07 at 4 00 10 PM" src="https://github.com/user-attachments/assets/82a7d18b-ff6a-4bdd-a5fa-5436db5cbf2b" /># Toppings Submission
+#Toppings Submission
 
 ##  What this project is
 Toppings submission with all CSS requirements filled. 
