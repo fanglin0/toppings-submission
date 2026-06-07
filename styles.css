@@ -1,0 +1,41 @@
+* {
+    color: gray; 
+    background-image: linear-gradient(#ff7e5f, #feb47b);
+    
+}
+#quiz {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input {
+    align-items:center;
+    size:80%
+}
+
+#congrats {
+    display: inline-block;
+    animation: moveRight 3s linear infinite;
+}
+@keyframes moveRight {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform:translateX(100vw);
+    }
+}
+@media only screen and (max-width: 600px) {
+  #quiz {
+    background-color: lightblue;
+  }
+}
+
+.secret {
+    display:grid;
+    grid-template-columns:auto auto auto;
+    background-color: dodgerblue;
+    padding: 20px;
+}
+
